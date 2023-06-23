@@ -15,9 +15,11 @@ The field has evolved due to the convergence of multiple technologies, including
 
 Then we accumulated more data about our sensors :
 
-- PhotoCells :
-- Encoder :
-- DHT22 :
+- PhotoCells : A photoresistor (also known as a photocell, or light-dependent resistor, LDR, or photo-conductive cell) is a passive component that decreases resistance with respect to receiving luminosity (light) on the component's sensitive surface. The resistance of a photoresistor decreases with increase in incident light intensity; in other words, it exhibits photoconductivity. A photoresistor can be applied in light-sensitive detector circuits and light-activated and dark-activated switching circuits acting as a resistance semiconductor.
+  
+- Encoder : Position encoders are used to track the rotary position of a shaft or linear position of a load either indirectly with a motor mounted rotary encoder or directly with linear encoders.
+
+- DHT22 : These sensors have been designed for various applications to measure the humidity as well as the temperature of the environment. They do so by finding the amount of water vapor present in the air around the sensors. The amount of moisture in the gas can be a mixture of different elements including nitrogen, water vapor, argon, etc. Since humidity can have huge effects on different biological, chemical, and physical processes, it should be measured and controlled in different industries and hence, there’s a need for these sensors to help us out.
 
 
 ## Phase (Chapter) II
