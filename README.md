@@ -4,7 +4,7 @@ IOT-based Home Automation System (With An Emphasis On Inhabitants' Wellbeing)
 </p>
 
 ## Phase (Chapter) I
-In this part , We have accumulated ideas and analysed some successful IOT products to help the Coherence of our project.\n
+In this part , We have accumulated ideas and analysed some successful IOT products to help the Coherence of our project.
 We First Started by getting to know IOT :
 ![](./iot.png)
 The Internet of things (IoT) describes physical objects (or groups of such objects) with sen-sors, processing ability, software and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks. Internet of things has been considered a misnomer because devices do not need to be connected to the public inter-net, they only need to be connected to a network, and be individually addressable.
