@@ -20,6 +20,7 @@ Then we accumulated more data about our sensors :
 - Encoder : Position encoders are used to track the rotary position of a shaft or linear position of a load either indirectly with a motor mounted rotary encoder or directly with linear encoders.
 ![](./resources/Encoder.jpg)
 - DHT22 : These sensors have been designed for various applications to measure the humidity as well as the temperature of the environment. They do so by finding the amount of water vapor present in the air around the sensors. The amount of moisture in the gas can be a mixture of different elements including nitrogen, water vapor, argon, etc. Since humidity can have huge effects on different biological, chemical, and physical processes, it should be measured and controlled in different industries and hence, there’s a need for these sensors to help us out.
+
 ![](./resources/DHT22.jpg)
 
 
