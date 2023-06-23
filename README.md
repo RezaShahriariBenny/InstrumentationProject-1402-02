@@ -13,6 +13,14 @@ The field has evolved due to the convergence of multiple technologies, including
 
 (--Please see course report in Files uploaded in this repository--) 
 
+Then we accumulated more data about our sensors :
+- PhotoCells :
+  
+- Encoder :
+  
+- DHT22 :
+  
+
 ## Phase (Chapter) II
 
 ## Phase (Chapter) III
