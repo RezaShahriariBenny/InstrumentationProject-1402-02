@@ -36,7 +36,7 @@ In this Phase we have simulated our ideas Inside proteus , We have implemented K
 ![](./resources/Capture2.PNG)
 (--Please see course report in Files uploaded in this repository--) 
 - Kalman Filter :
-![](./resources/KalmanFilterFinilized.png)
+![](./resources/Kalman.png)
 (--Please see course report in Files uploaded in this repository--) 
 
 
