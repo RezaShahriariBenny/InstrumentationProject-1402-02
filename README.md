@@ -25,5 +25,21 @@ Then we accumulated more data about our sensors :
 
 
 ## Phase (Chapter) II
+In this Phase we have simulated our ideas Inside proteus , We have implemented Kalman Filter (Estimation , Noise Rejection) too !!
+- Photocells :
+![](./Phase 2/Capture.png)
+(--Please see course report in Files uploaded in this repository--) 
+- Encoder :
+![](./Phase 2/Capture3.png)
+(--Please see course report in Files uploaded in this repository--) 
+- DHT22 :
+![](./Phase 2/Capture2.png)
+(--Please see course report in Files uploaded in this repository--) 
+- Kalman Filter :
+![](./Phase 3/Kalman Filter Finilized.png)
+(--Please see course report in Files uploaded in this repository--) 
+
 
 ## Phase (Chapter) III
+In this Phase We have implemented some practical Aspects of the Project 
+(--Please see course report in Files uploaded in this repository--) 
